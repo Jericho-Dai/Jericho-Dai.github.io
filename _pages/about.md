@@ -1,13 +1,29 @@
 ---
 permalink: /
-title: "Jericho Dai"
+title: "Welcome to my homepage!"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is Jericho Dai 
+I'm Jericho Dai from China , a PhD student in USTC School of life science ,My reasearch foucs in Cancer Immunology and AI for Science area.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
