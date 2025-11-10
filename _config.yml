@@ -24,7 +24,7 @@ author:
   # Biographic information
   avatar           : "graph.png"
   name             : "Jericho Dai"
-  pronouns         : "代 宇"  
+  pronouns         : #"代 宇"  
   bio              : "Cancer Immunology; AI for Science"
   location         : "Hefei, China"
   employer         : "USTC"
