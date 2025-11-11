@@ -1,11 +1,13 @@
 ---
 permalink: /
-title: "Welcome to my homepage!"
+title: ""
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+
+## Welcome to my homepage
 
 I'm Jericho Dai from China, a PhD candidate at USTC. 
 I am interested in cancer immunology & AI-driven therapeutic. 
@@ -17,44 +19,11 @@ I am interested in cancer immunology & AI-driven therapeutic.
 ## 📄 Publication
 
 
-##    Personal interests   
+## 🎯 Beyound Science
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-## 🎯 Thanks for visit
-<script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=OAhdUUiSUFz3exJ38RWSFg9bg2DH5W2v3AqW9aCtyuQ&cl=ffffff&w=a"></script>
-
+Thanks for Visit
+<script type='text/javascript' id='mapmyvisitors' src='https://mapmyvisitors.com/map.js?cl=ffffff&w=284&t=n&d=OAhdUUiSUFz3exJ38RWSFg9bg2DH5W2v3AqW9aCtyuQ&co=83c9f4&cmo=3acc3a&cmn=ff5353&ct=ffffff'></script>
 
 
 
