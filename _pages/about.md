@@ -22,19 +22,14 @@ My interdisciplinary expertise spans both benchwork and bioinformatics:
 * **Computational Skills:** Bioinformatics data analysis, including single-cell and bulk sequencing processing, utilizing **Python** and **R** programming languages.
 
 
-### 🧬 Research
-   ## T Cell Exhaustion in the Tumor Immune Microenvironment
-
-   ## **Background**
+### 🧬 Research: T Cell Exhaustion in the Tumor Immune Microenvironment
 
 T cell exhaustion is a state of T cell dysfunction that arises during chronic infections and cancer. Characterized by a progressive loss of effector function, altered transcriptional programs, and sustained expression of inhibitory receptors (e.g., PD-1, CTLA-4, LAG-3), exhausted T cells are less capable of proliferating, producing effector cytokines (e.g., IFN-γ, TNF-α), and mediating anti-tumor immunity.
-
-   ## **Significance in Cancer Immunotherapy**
 
 Within the complex and immunosuppressive Tumor Immune Microenvironment (TIME), T cell exhaustion represents a major barrier to effective anti-tumor responses. Understanding the intricate molecular and cellular mechanisms that drive and maintain T cell exhaustion is paramount for developing novel and enhancing existing immunotherapeutic strategies. Strategies targeting exhausted T cells, such as immune checkpoint blockade (ICB), aim to rejuvenate these dysfunctional cells, restoring their capacity to eliminate cancer cells and improving patient outcomes.
 
 ---
-(`/assets/images/Tex.jpg`) 
+![Tex description](/assets/images/Tex.jpg)
 
 
 
