@@ -7,10 +7,19 @@ redirect_from:
   - /about.html
 ---
 
-## Welcome to my homepage
+### Welcome to my homepage！
 
-I'm Jericho Dai from China, a PhD candidate at USTC. 
-I am interested in cancer immunology & AI-driven therapeutic. 
+### Ph.D. Candidate, USTC | Focus: Tumor Immunology
+
+I am currently pursuing my Ph.D. at the University of Science and Technology of China (USTC), with expected graduation in 2028. My research aims to understand the complex mechanisms driving **T cell exhaustion** within the **Tumor Immune Microenvironment (TIME)**, with the goal of optimizing immunotherapeutic strategies.
+
+My interdisciplinary expertise spans both benchwork and bioinformatics:
+
+#### Core Expertise:
+
+* **Immunology Research:** Focused on T cell functionality and exhaustion profiling.
+* **Wet Lab Techniques:** Proficiency in basic Biochemistry & Molecular Biology (BMB) experiments and advanced Flow Cytometry (FACS).
+* **Computational Skills:** Bioinformatics data analysis, including single-cell and bulk sequencing processing, utilizing **Python** and **R** programming languages.
 
 
 ## 🧬 Research
